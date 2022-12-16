@@ -1,4 +1,7 @@
 # Airbags by OMSolutions & Mirror Park Studios
+
+![Screenshot](https://i.imgur.com/1XaILqt.png)
+
 Introducing **obWeaponLanyards**, the ultimate roleplaying tool for FiveM law enforcement players! Created by **OMSolutions** and **Mirror Park Studios**, this innovative lanyard system allows players to physically attach their weapon to their character, creating a realistic and immersive roleplaying experience.
 
 Not only does obWeaponLanyards improve roleplay for law enforcement players, it also adds a new level of immersion and realism to the gameplay experience. With obWeaponLanyards, you can take your roleplaying to the next level and fully immerse yourself in the world of FiveM. Try it out today and see the difference it can make in your gameplay experience!
