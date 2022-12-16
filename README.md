@@ -1,4 +1,4 @@
-# Airbags by OMSolutions & Mirror Park Studios
+# Weapon Lanyards by OMSolutions & Mirror Park Studios
 
 ![Screenshot](https://i.imgur.com/1XaILqt.png)
 
