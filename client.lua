@@ -8,14 +8,14 @@ Citizen.CreateThread(function()
         playerWeapon = GetSelectedPedWeapon(playerPed)
         
         if currentWeapon ~= playerWeapon then
-            if playerWeapon == `WEAPON_UNARMED` and hasLanyard then
+            if hasLanyard then
                 TriggerServerEvent("obWeaponLanyard:removelanyard")
                 hasLanyard = false
-            else
-                if isWeaponAllowed(playerWeapon) and not hasLanyard then
-                    TriggerServerEvent("obWeaponLanyard:createlanyard")
-                    hasLanyard = true
-                end
+            end
+                
+            if isWeaponAllowed(playerWeapon) and not hasLanyard then
+                TriggerServerEvent("obWeaponLanyard:createlanyard")
+                hasLanyard = true
             end
 
             currentWeapon = playerWeapon
